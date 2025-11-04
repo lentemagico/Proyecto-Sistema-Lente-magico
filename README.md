@@ -1,4 +1,5 @@
-<img width="730" height="720" alt="image" src="https://github.com/user-attachments/assets/6920e780-d06a-4410-bab8-64d55a79b1f2" />
+<p align="center">
+<img width="230" height="220" alt="image" src="https://github.com/user-attachments/assets/6920e780-d06a-4410-bab8-64d55a79b1f2" />
 
 <p align="justify">
 Estamos  especializado para tiendas ópticas, con el objetivo de mejorar la gestión diaria, optimizar procesos y facilitar el seguimiento de clientes, productos y servicios. Este sistema busca adaptarse a las 
