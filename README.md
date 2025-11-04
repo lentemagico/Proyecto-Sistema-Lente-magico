@@ -14,7 +14,7 @@ Brindar soluciones ópticas integrales que mejoren la calidad de vida de nuestro
 
 Ser reconocidos como la óptica líder en nuestra región por nuestra excelencia en servicio, innovación tecnológica y compromiso con el bienestar visual. Aspiramos a transformar la experiencia óptica en un vínculo de confianza, accesibilidad y desarrollo sostenible, integrando ciencia, estética y humanidad. Con el apoyo de un sistema de software personalizado, proyectamos un crecimiento continuo en ventas, eficiencia operativa y fidelización de clientes.
 
-Objetivo General:
+## :neckbeard: Objetivo General:
 
 Implementar un Sistema de Información de gestión de ventas e inventario para la óptica tradicional, con el fin de optimizar los procesos internos.
 
