@@ -7,7 +7,7 @@ necesidades reales del sector óptico, ofreciendo soluciones prácticas para el 
 Tu experiencia y opinión son fundamentales para construir una herramienta útil, eficiente y pensada para negocios como el tuyo. Las respuestas que compartas nos permitirán identificar qué procesos presentan fallas, qué funciones son prioritarias y cómo la tecnología puede ayudarte a ahorrar tiempo, evitar errores y brindar un mejor servicio.
 </p>
 
-🧭 Misión:
+## :oclock01: Misión:
 
 </p>
 Brindar soluciones ópticas integrales que mejoren la calidad de vida de nuestros clientes, combinando tecnología de vanguardia, atención personalizada y asesoría profesional. Nos comprometemos a cuidar la salud visual con ética, precisión y calidez, mientras implementamos un sistema de software inteligente que optimiza la gestión comercial, agiliza los procesos internos y fortalece la relación con nuestros clientes.
